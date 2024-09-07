@@ -3,9 +3,9 @@
 
 A simple and intuitive ToDo List web application to manage your daily tasks. This app allows you to add, update, and delete tasks with an easy-to-use interface.
 
-### Live Demo
+### Visit the Live Site
 
-[Live Site](https://todolistharsh.glitch.me)
+[Click Here](https://todolistharsh.glitch.me)
 
 ---
 

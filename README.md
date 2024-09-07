@@ -30,7 +30,7 @@ todolist/
 │
 ├── app.js                # Main server-side JavaScript file
 ├── date.js               # Utility file for handling date functionality
-├── index.gtml            # Main HTML File
+├── index.html            # Main HTML File
 ├── package.json          # Project dependencies and scripts
 └── README.md             # Documentation for the repository
 ```

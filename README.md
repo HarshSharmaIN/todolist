@@ -13,7 +13,7 @@ A simple and intuitive ToDo List web application to manage your daily tasks. Thi
 
 - Add new tasks
 - Mark tasks as complete
-- Edit and delete tasks
+- Delete tasks
 - Responsive and user-friendly interface
 
 ---
@@ -60,7 +60,7 @@ todolist/
 4. **Start the development server:**
 
    ```bash
-   node index.js
+   node app.js
    ```
 
 5. **Open the app in your browser:**

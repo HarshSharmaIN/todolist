@@ -1,7 +1,7 @@
 
 # ToDo List App
 
-A simple and intuitive ToDo List web application to manage your daily tasks. This app allows you to add, update, and delete tasks with an easy-to-use interface.
+A simple and intuitive ToDo List web application to manage your daily tasks. This app allows you to add and delete tasks with an easy-to-use interface.
 
 ### Visit the Live Site
 
